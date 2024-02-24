@@ -43,11 +43,15 @@ _Continue to update your online document as things change, so that everyone on y
 
 ### **Minimum Viable Product vs What will your MVP functionality be?**
 
-- Project's minimum viable product will be...
+- Project's minimum viable product will be:
+  1. Input hard-coded ingredients.
+  2. Search through database of recipes (1 recipe).
+  3. Output the 1 recipe.
+  4. Allow user to write a n
 
 ## Stretch Goals
 
-1. ...
+1. Write project planning documentation in JavaDoc.
 
 ### **What are your stretch goals?**
 
@@ -117,7 +121,7 @@ _If you are stuck on what non-functional requirements are, do a quick online sea
 
 ## Member Responsibilities
 
-_An assignment of responsibilities to team members (normally, this means which classes or methods they will write._
+_An assignment of responsibilities to team members (normally, this means which classes or methods they will write.)_
 
 - Rhea Carillo:
 - Dami Gesinde:
