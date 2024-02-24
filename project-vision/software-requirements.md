@@ -10,27 +10,36 @@ _Continue to update your online document as things change, so that everyone on y
 
 ### **What is the vision of this product?**
 
-- Our goal for this project is to develop...
+- Our goal for this project is to develop an application that where users may input ingredients and receive recipes with matching ingredients.
 
 ### **What pain point does this project solve?**
 
-- The pain point that this project solve is...
+- The pain point that this project solve is to give consumers suggestions for recipes when they can't think of anything.
 
 ### **Why should we care about your product?**
 
-- You should care about this project becaus...
+- This product will also help consumers reduce food waste.
 
 ## Scope (In/Out)
 
 ### IN - What will your product do?
 
+- List of ingredients.
+
 #### Describe the individual features that your product will do
 
 #### High overview of each. List 4-5
 
+- Accepts ingredients from the user.
+- Searches for recipes that match the ingredients list.
+- Displays a list of matching recipes for users to choose from.
+- Allows users to pick from list of matching recipes.
+- Displays a chosen recipe's list of ingredients, quantities, and the steps.
+
 ### OUT - What will your product _not_ do?
 
-- Product will not...
+- Product will not provide definitions for unfamiliar ingredients.
+- Product will not display photos of ingredients or recipes.
 
 ### **Minimum Viable Product vs What will your MVP functionality be?**
 
