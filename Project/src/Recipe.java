@@ -8,7 +8,7 @@ import java.util.HashMap;
 public class Recipe {
   private String name;
   /* Hashmap<Ingredient name, the quantity> */
-  private HashMap<Ingredient, Integer> ingredients;
+  private ArrayList<IngredientQuantity> ingredients;
   private ArrayList<String> instructions; // Preformatted instructions.
   private String description;
 
@@ -33,7 +33,7 @@ public class Recipe {
    *
    * HashMap<Ingredient, ArrayList to store [quantity, units]>
    */
-  public HashMap<Ingredient, Integer> getIngredients() {
+  public HashMap<String, IngredientQuantity> getIngredients() {
     return this.ingredients;
   }
 

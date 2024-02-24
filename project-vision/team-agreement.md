@@ -6,7 +6,7 @@ _Every person on your team is an asset. This is your chance to discover the hidd
 
 **_Describe at least:_**
 
-- *What are the key strengths of each person on the team?*
+- _What are the key strengths of each person on the team?_
 
   - Rhea Carillo:
   - Dami Gesinde:
@@ -14,7 +14,7 @@ _Every person on your team is an asset. This is your chance to discover the hidd
   - Mark Nazarenko:
   - Josh Paskett:
 
-- *How can you best utilize these strengths in the execution of your project?*
+- _How can you best utilize these strengths in the execution of your project?_
 
   - Rhea Carillo:
   - Dami Gesinde:
@@ -22,7 +22,7 @@ _Every person on your team is an asset. This is your chance to discover the hidd
   - Mark Nazarenko:
   - Josh Paskett:
 
-- *In which professional competencies do you each want to develop greater strength?*
+- _In which professional competencies do you each want to develop greater strength?_
 
   - Rhea Carillo:
   - Dami Gesinde:
@@ -30,7 +30,7 @@ _Every person on your team is an asset. This is your chance to discover the hidd
   - Mark Nazarenko:
   - Josh Paskett:
 
-- *Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?*
+- _Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?_
 
   - The team has agreed to meet on ... between the hours of ...
   - Communication will be primarily through Discord. The Canvas group will also be used to share announcements.
@@ -72,15 +72,12 @@ _Before beginning to tackle the project, determine how your group will communica
 **_Describe at least:_**
 
 - _What hours will you be available to communicate?_
-  -...
+
+  - Meetings will begin on Tuesdays and Thursdays at 4:00 PM and end before class time.
 
 - _What platforms will you use to communicate (ie. Slack, phone, …)?_
 
-  - The team has agreed to use Slack as out main form of communication. However if needed, the team member can provide their personal phone number if they can be reached after hours of operation.
-
-- _How often will you take breaks during work sessions?_
-
-  - The team has agreed that...
+  - The team (Psuedocoders) has agreed to communicate through Discord.
 
 - _What is your plan if you start to fall behind?_
 
@@ -90,15 +87,15 @@ _Before beginning to tackle the project, determine how your group will communica
   - Mark Nazarenko:
   - Josh Paskett:
 
-- *How will you communicate after hours and on the weekend?*
+- _How will you communicate after hours and on the weekend?_
 
-  - After hours and on weekends, We will continue to communicate through ...
+  - After hours and on weekends, we will continue to communicate through Discord.
 
-- *What is your strategy for ensuring everyone’s voice is heard?*
+- _What is your strategy for ensuring everyone’s voice is heard?_
 
-  - ...
+  - We will conduct a standup session at the start of work sessions to share what we've worked on as well as our current blockers.
 
-- *How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?*
+- _How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?_
 
   - ...
 
@@ -110,11 +107,11 @@ _Before beginning to tackle the project, determine how your group will communica
 
 **_Describe at least:_**
 
-- *How you will identify tasks, assign tasks, know when they are complete, and manage work in general?*
+- _How you will identify tasks, assign tasks, know when they are complete, and manage work in general?_
 
   - The team will use ...
 
-- *What project management tool will be used?*
+- _What project management tool will be used?_
   - ...
 
 ## Presentation Deck
@@ -129,7 +126,7 @@ _Before beginning to tackle the project, determine how your group will communica
 
 **_Describe at least:_**
 
-- *What components of your project will live on GitHub?*
+- _What components of your project will live on GitHub?_
 
   - GitHub will house our source-code, as well as our project preparation documents.
 
@@ -137,16 +134,16 @@ _Before beginning to tackle the project, determine how your group will communica
 
   - We have a GitHub Organization where we all have admin access to all repositories.
 
-- *What is your Git flow?*
+- _What is your Git flow?_
 
 _Rhea note: Here's an example of a workflow a lot of my old team members used:_
 
     _- We will primarily develop and test our application within an aptly named `development` branch. Our `main` branch will host our final, and fully-tested production code. We will write and test the individual features, `classes` and `methods` within aptly-named Git branches. Code for feature branches will be pulled from the `development` branch to working on feature tasks._
 
-- *Will you be using a PR review workflow? If so, consider:*
-  - *How many people must review a Pull Request (PR)?*
+- _Will you be using a PR review workflow? If so, consider:_
+  - _How many people must review a Pull Request (PR)?_
     - ...
-  - *Who merges PRs?*
+  - _Who merges PRs?_
     - ...
-  - *How often will you merge code from pull requests into `development` and `main` branches?*
+  - _How often will you merge code from pull requests into `development` and `main` branches?_
     - We wil merge...

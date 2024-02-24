@@ -124,7 +124,7 @@ _If you are stuck on what non-functional requirements are, do a quick online sea
 
 _An assignment of responsibilities to team members (normally, this means which classes or methods they will write.)_
 
-- Rhea Carillo:
+- Rhea Carillo: 
 - Dami Gesinde:
 - Hunter McDonald:
 - Mark Nazarenko:
