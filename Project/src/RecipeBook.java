@@ -1,31 +1,68 @@
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-// Generates a Hashmap from a text file of recipes
+/**
+ * The collection of Recipe objects.
+ *
+ * <p>Generates a collection of recipe objects from the text file/database of recipes.
+ */
 public class RecipeBook {
-  Map<String, Recipe> recipes;
 
-  // RecipeBook() {this.recipes = new HashMap<>();
+  /* Map<Recipe name, Recipe object> */
+  private Map<String, Recipe> recipes; // All recipes.
 
-  // prompts user to create recipe, adds recipe to recipe book
+  /*
+   * Constructs the RecipeBook.
+   */
+  public RecipeBook() {}
+
+  /*
+   * Adds a recipe to the RecipeBook and saves the recipe to the recipe database.
+   */
   public static void addRecipe(Recipe recipe) {}
-  ;
 
+  /*
+   * Deletes a recipe from the RecipeBook and removes the recipe from the recipe database.
+   */
   public static void deleteRecipe() {}
-  ;
 
+  /*
+   * Edits a recipe in the RecipeBook and updates the recipe in the recipe database.
+   */
   public static void editRecipe() {}
-  ;
 
-  public static List<Recipe> suggestRecipes(List<Ingredient> availableIngredients) {}
-  ;
+  /*
+   * Returns a list of all matching recipes based on the specified ingredients.
+   */
+  public List<Recipe> suggestRecipes(List<String> availableIngredients) {
+    List<Recipe> suggestedRecipes = new ArrayList<>();
 
-  public static void displayRecipeBook() {}
-  ;
+    for (Recipe recipe : this.recipes) {
+      boolean allIngredientsAvailable = true;
 
+      for (String ingredient : recipe.getIngredients()) {
+        if (!availableIngredients.contains(ingredient)) {
+          allIngredientsAvailable = false;
+          break;
+        }
+      }
+
+      if (allIngredientsAvailable) {
+        suggestedRecipes.add(recipe);
+      }
+    }
+
+    return suggestedRecipes;
+  }
+
+  /*
+   * Displays a recipe.
+   */
   public static void displayRecipe() {}
-  ;
 
+  /*
+   * Searches for a recipe.
+   */
   public static void searchRecipe() {}
-  ;
 }

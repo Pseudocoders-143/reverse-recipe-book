@@ -1,11 +1,14 @@
+/** Represents a single ingredient. */
 public class Ingredient {
-  String name;
+  private String name;
 
-  Ingredient(String name) {
+  /* TODO: add boolean fields for dietary restrictions */
+
+  public Ingredient(String name) {
     this.name = name;
   }
 
-  String getName() {
+  public String getName() {
     return this.name;
   }
 }

@@ -52,10 +52,11 @@ _Continue to update your online document as things change, so that everyone on y
 ## Stretch Goals
 
 1. Write project planning documentation in JavaDoc.
+2. Allow users to add their own recipes to the recipe book.
 
 ### **What are your stretch goals?**
 
-1. ...
+1. Display entire recipe book for user to search through.
 
 #### **What stretch goals are you going to aim for?**
 
