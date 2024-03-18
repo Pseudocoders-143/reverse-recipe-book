@@ -60,7 +60,7 @@ _Continue to update your online document as things change, so that everyone on y
 
 #### **What stretch goals are you going to aim for?**
 
-1. 
+1.
 
 ## User Stories
 
@@ -111,16 +111,14 @@ _If you are stuck on what non-functional requirements are, do a quick online sea
 
 - _List the classes you will write for your project and what they represent, if anything._
 
-1. Recipe: 
-2. RecipeBook: 
-3. RecipeManager: 
-4. UserInterface: 
-5. IngredientQuantity: 
-6. Ingredient: 
+1. Recipe:
+2. RecipeBook:
+3. RecipeManager:
+4. UserInterface:
+5. IngredientQuantity:
+6. Ingredient:
 
 ### List of Methods
-
-
 
 ## Member Responsibilities
 
