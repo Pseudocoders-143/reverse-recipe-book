@@ -60,8 +60,7 @@ _Continue to update your online document as things change, so that everyone on y
 
 #### **What stretch goals are you going to aim for?**
 
-- [ ] ...
-- [x] ...
+1. 
 
 ## User Stories
 
@@ -112,19 +111,22 @@ _If you are stuck on what non-functional requirements are, do a quick online sea
 
 - _List the classes you will write for your project and what they represent, if anything._
 
-- [x] one
-- [ ] two
+1. Recipe: 
+2. RecipeBook: 
+3. RecipeManager: 
+4. UserInterface: 
+5. IngredientQuantity: 
+6. Ingredient: 
 
 ### List of Methods
 
-- [x] one
-- [ ] two
+
 
 ## Member Responsibilities
 
 _An assignment of responsibilities to team members (normally, this means which classes or methods they will write.)_
 
-- Rhea Carillo: 
+- Rhea Carillo:
 - Dami Gesinde:
 - Hunter McDonald:
 - Mark Nazarenko:

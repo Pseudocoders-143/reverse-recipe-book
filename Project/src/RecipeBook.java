@@ -9,13 +9,17 @@ import java.util.Map;
  */
 public class RecipeBook {
 
+  /* TODO: create a data structure to hold all recipes that are loaded from CSV*/
   /* Map<Recipe name, Recipe object> */
+
   private Map<String, Recipe> recipes; // All recipes.
 
   /*
    * Constructs the RecipeBook.
    */
-  public RecipeBook() {}
+  public RecipeBook() {
+    /* TODO: add logic to scan CSV and load all recipes to a a data structure in a field in this class */
+  }
 
   /*
    * Adds a recipe to the RecipeBook and saves the recipe to the recipe database.

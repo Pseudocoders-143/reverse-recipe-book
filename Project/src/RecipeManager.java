@@ -18,7 +18,7 @@ public class RecipeManager {
 
   private void displaySuggestedRecipes(List<Recipe> suggestedRecipes) {
 
-    // TODO: replace console prompts with
+    // TODO: replace console prompts with JavaFX Dialog boxes
     System.out.println("Suggested Recipes:");
     for (Recipe recipe : suggestedRecipes) {
       System.out.println(recipe.getName());
